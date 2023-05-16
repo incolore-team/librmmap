@@ -1,0 +1,9 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Make: build",
+            "command": "make"
+        }
+    ]
+}
